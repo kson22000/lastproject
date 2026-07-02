@@ -13,7 +13,7 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom'
 function App() {
   return (
     <div>
-      <BrowserRouter>
+      <BrowserRouter basename='/lastproject'>
       <Navbar/>
       <Routes>
         <Route path="/" element={<Homepage/>}></Route>
