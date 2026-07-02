@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from './components/layouts/Navbar'
-import Homepage from './Pages/HomePage'
+import Homepage from './Pages/Homepage'
 import Contactus from './Pages/Contactus'
 import Aboutus from './Pages/Aboutus'
 import Carddetail from './Pages/Carddetail'
